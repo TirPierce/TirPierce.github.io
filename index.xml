@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dublin Ink</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Dublin Ink</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Dec 2018 12:30:01 +0600</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kevin McNamara</title>
+      <link>http://example.org/kevin/</link>
+      <pubDate>Wed, 26 Dec 2018 12:30:01 +0600</pubDate>
+      
+      <guid>http://example.org/kevin/</guid>
+      <description>From Ireland, Kevin started out in Dublin Ink 4 years ago, after studying animation and illustration in college in Dublin City, he’s tattooing a little over 2 and a half years.</description>
+    </item>
+    
+    <item>
+      <title>Bruno Santos</title>
+      <link>http://example.org/bruno/</link>
+      <pubDate>Wed, 26 Dec 2018 12:28:47 +0600</pubDate>
+      
+      <guid>http://example.org/bruno/</guid>
+      <description>Born in Araxá, Brazil and grew up in Belo Horizonte.</description>
+    </item>
+    
+    <item>
+      <title>Matthew Larkin</title>
+      <link>http://example.org/mathew/</link>
+      <pubDate>Wed, 26 Dec 2018 12:28:47 +0600</pubDate>
+      
+      <guid>http://example.org/mathew/</guid>
+      <description>Matthew is Dublin Ink’s resident Pokèmon master, with an impressive card collection (all 151) all 8 gym badges and a couple of cheeky Pokèmon tattoo’s .</description>
+    </item>
+    
+    <item>
+      <title>Norbert Halasz</title>
+      <link>http://example.org/norbert/</link>
+      <pubDate>Wed, 26 Dec 2018 12:28:47 +0600</pubDate>
+      
+      <guid>http://example.org/norbert/</guid>
+      <description>In 1998, Norbi gave up his degree in Mechanical Engineering to start tattooing in his home town Miskolc, Hungary.</description>
+    </item>
+    
+  </channel>
+</rss>
